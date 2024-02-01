@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am a computer technician passionate about delivering services that ensure the security of the products as well as their quality. The comprehensive and detailed approach is the one I take in life and at work.</p>
+<p>	I am a computer technician passionate about delivering services that ensure the security of the products as well as their quality. The comprehensive and detailed approach is the one I take in life and at work.</p>
 
 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
